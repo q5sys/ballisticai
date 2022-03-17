@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Ballistic AI</title>
+    <link>https://q5sys.github.io/ballisticai/series/services/</link>
+    <description>Recent content in Services on Ballistic AI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://q5sys.github.io/ballisticai/series/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What we do</title>
+      <link>https://q5sys.github.io/ballisticai/posts/2022/01/what-we-do/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://q5sys.github.io/ballisticai/posts/2022/01/what-we-do/</guid>
+      <description>Ballistic AI is a boutique consulting firm specializing in AI/ML consulting for businesses wishing to integrate AI/ML offerings into their services and worlflows.
+We have over two decades of experience in the Linux and Open Source communities and over a decade of development in several Linux Distros. Open Source is at the heart of what we do, and we look forward to being able to help your business grow by leveraging Open Source Technology.</description>
+    </item>
+    
+  </channel>
+</rss>

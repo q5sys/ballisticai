@@ -1,0 +1,26 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Ballistic AI</title>
+        <link>https://q5sys.github.io/ballisticai/fr/posts/</link>
+        <description>Recent content in Posts on Ballistic AI</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+        <atom:link href="https://q5sys.github.io/ballisticai/fr/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Nos activités</title>
+            <link>https://q5sys.github.io/ballisticai/fr/posts/2022/01/nos-activit%C3%A9s/</link>
+            <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+            
+            <guid>https://q5sys.github.io/ballisticai/fr/posts/2022/01/nos-activit%C3%A9s/</guid>
+            <description>Ballistic AI est une société de conseil spécialisée dans le conseil en IA/ML pour les entreprises qui souhaitent intégrer des offres d&amp;rsquo;IA/ML dans leurs services et leurs flux de travail.
+Nous avons plus de deux décennies d&amp;rsquo;expérience dans les communautés Linux et Open Source et plus d&amp;rsquo;une décennie de développement dans plusieurs Distros Linux. L&amp;rsquo;Open Source est au cœur de ce que nous faisons, et nous sommes impatients de pouvoir aider votre entreprise à se développer en tirant parti de la technologie Open Source.</description>
+            <content type="html"><![CDATA[<p>Ballistic AI est une société de conseil spécialisée dans le conseil en IA/ML pour les entreprises qui souhaitent intégrer des offres d&rsquo;IA/ML dans leurs services et leurs flux de travail.</p>
+<p>Nous avons plus de deux décennies d&rsquo;expérience dans les communautés Linux et Open Source et plus d&rsquo;une décennie de développement dans plusieurs Distros Linux. L&rsquo;Open Source est au cœur de ce que nous faisons, et nous sommes impatients de pouvoir aider votre entreprise à se développer en tirant parti de la technologie Open Source.</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
